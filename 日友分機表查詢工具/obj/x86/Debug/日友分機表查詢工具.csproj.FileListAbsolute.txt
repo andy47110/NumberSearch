@@ -1,0 +1,7 @@
+C:\Users\adchen0428\Desktop\日友分機表查詢工具\日友分機表查詢工具\bin\Debug\日友分機表查詢工具.exe
+C:\Users\adchen0428\Desktop\日友分機表查詢工具\日友分機表查詢工具\bin\Debug\日友分機表查詢工具.pdb
+C:\Users\adchen0428\Desktop\日友分機表查詢工具\日友分機表查詢工具\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\adchen0428\Desktop\日友分機表查詢工具\日友分機表查詢工具\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\adchen0428\Desktop\日友分機表查詢工具\日友分機表查詢工具\obj\x86\Debug\日友分機表查詢工具.csproj.GenerateResource.Cache
+C:\Users\adchen0428\Desktop\日友分機表查詢工具\日友分機表查詢工具\obj\x86\Debug\日友分機表查詢工具.exe
+C:\Users\adchen0428\Desktop\日友分機表查詢工具\日友分機表查詢工具\obj\x86\Debug\日友分機表查詢工具.pdb
